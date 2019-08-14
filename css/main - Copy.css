@@ -99,23 +99,20 @@ textarea {
    ========================================================================== */
 
 /*-------------------Base Styles for header - footer-----------------------------*/
-
-
 header, footer{
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	flex-flow: row wrap;
+
 }
+
 header {
-	/*-------------------Styles for header -----------------------------*/
+
 }
 
 header .content-wrapper {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	flex-flow: row wrap;
+
 }
 
 header figure {
@@ -123,42 +120,12 @@ header figure {
 }
 
 header nav {
-	display: flex;
-	justify-content: space-around;
-	align-items: center;
-	flex-flow: row wrap;
 
-}
 
-header nav li{
-	list-style: none;
-	align-content: space-between;
-}
-/*-------------------end of header-start of footer-----------------------*/
-
-.footer-content{
-	}
-
-.address{
-
-}
-
-.social{
 
 }
 
 
-footer.social-icons{
-	display: flex;
-	justify-content: space-around;
-	align-items: center;
-}
-
-footer.social-icons p{
-	display: flex;
-	justify-content: space-around;
-	align-items: center;
-}
 /*======================== Mobile =========================================*/
 /*-------------------Mobile Styles - Homepage------------------------*/
 .hero-area {
@@ -169,36 +136,21 @@ footer.social-icons p{
 }
 
 aside {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	flex-flow: row wrap;
+
 }
 
 .features {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	flex-flow: row wrap;
+
 }
 
 article {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	flex-flow: row wrap;
+
 }
 
 .previous-retreats {
-	
+
 }
 
-.previous-content{
-	display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-flow: row wrap;
-}
 
 /*-------------------Mobile Styles - About page-----------------------------*/
 
